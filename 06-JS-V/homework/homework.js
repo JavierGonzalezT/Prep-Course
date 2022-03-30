@@ -8,6 +8,7 @@ function crearUsuario() {
   // {{nombre}} debe ser el nombre definido en cada instancia
   // Devuelve la clase
   // Tu código:
+  // PRUEBA GITHUB. BORRAR!!!
 }
 
 function agregarMetodoPrototype(Constructor) {
